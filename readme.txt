@@ -5,3 +5,6 @@ Create a new branch is quick.
 test
 creat and delete branch for --no --ff.
 test for diff.
+writing.........continue...........
+continue......
+finish！！！
