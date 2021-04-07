@@ -5,3 +5,4 @@ Create a new branch is quick.
 test
 creat and delete branch for --no --ff.
 test for diff.
+modifiy a bug for 101.
